@@ -5,7 +5,7 @@ namespace FizzBuzz.Core.FizzBuzz
     {
         public override string Handle(int numberToHandle)
         {
-            return "fizz";
+            return "Fizz";
         }
 
         public override bool CanHandle(int numberToHandle)
