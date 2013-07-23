@@ -8,7 +8,7 @@ There's a lot of [controversy](https://twitter.com/ayende/status/359221698790309
 
 A quick [Google Search](https://www.google.ca/search?q=fizzbuzz) will present you with a large number of programmers proving that they can [solve FuzzBuzz](http://c2.com/cgi/wiki?FizzBuzzTest). There's even a [Code Golf](http://codegolf.stackexchange.com/) challenge on how to [obfuscate FizzBuzz](http://codegolf.stackexchange.com/questions/88/obfuscated-fizzbuzz-golf).
 
-In fact, any hack should be able to pull off FizzBuzz in just a few lines of code. I believe this is why [Kellabyte](https://github.com/kellabyte) ([twitter](https://twitter.com/kellabyte)) wishes it would disappear. The below code doesn't really show anyone's specific skills beyond some really basic logic.
+In fact, any hack should be able to pull off FizzBuzz in just a few lines of code. I believe this is why [Kellabyte](https://github.com/kellabyte) ([twitter](https://twitter.com/kellabyte)) wishes it would [disappear](https://twitter.com/kellabyte/status/359309409131827201). The below code doesn't really show anyone's specific skills beyond some really basic logic.
 
 	for(var i = 1; i <= 100; i++)
 	{
