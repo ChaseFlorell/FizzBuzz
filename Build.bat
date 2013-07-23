@@ -1,0 +1,1 @@
+@powershell -NoProfile -ExecutionPolicy Unrestricted -Command "./FizzBuzz.Build/Build.ps1"
