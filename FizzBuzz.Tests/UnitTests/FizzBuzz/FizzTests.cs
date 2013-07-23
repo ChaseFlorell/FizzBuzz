@@ -14,7 +14,7 @@ namespace FizzBuzz.Tests.UnitTests.FizzBuzz
         }
 
         [Test]
-        public void FizzShouldHandleNumberDivisableByThree()
+        public void ShouldHandleNumberDivisableByThree()
         {
             var number = new[] {3,6,9,12,15,18,21,24,27,30};
             var rand = (int)new Random().NextDouble() * (10 - 1) + 1; 

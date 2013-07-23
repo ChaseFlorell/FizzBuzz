@@ -13,7 +13,7 @@ namespace FizzBuzz.Tests.UnitTests.FizzBuzz
         }
 
         [Test]
-        public void BuzzShouldHandleNumberDivisableByFive()
+        public void ShouldHandleNumberDivisableByFive()
         {
             var number = new[] { 5, 10, 15, 20, 25, 30, 35, 40, 45, 50 };
             var rand = (int)new Random().NextDouble() * (10 - 1) + 1; 

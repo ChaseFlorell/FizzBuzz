@@ -46,6 +46,7 @@
     <Compile Include="UnitTests\FizzBuzz\FizzBuzzTests.cs" />
     <Compile Include="UnitTests\FizzBuzz\FizzTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UnitTests\FizzBuzz\NumberTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
