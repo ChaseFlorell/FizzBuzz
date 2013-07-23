@@ -23,5 +23,13 @@ namespace FizzBuzz.Core.FizzBuzz
 
             return this;
         }
+
+        public class FizzBuzzValue
+        {
+            public static int Fizz { get { return 3; } }
+            public static int Buzz { get { return 5; } }
+            public static int FizzBuzz { get { return 15; } }
+
+        }
     }
 }

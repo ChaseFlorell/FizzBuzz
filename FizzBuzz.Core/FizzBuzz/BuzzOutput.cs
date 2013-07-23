@@ -10,7 +10,7 @@ namespace FizzBuzz.Core.FizzBuzz
 
         public override bool CanHandle(int numberToHandle)
         {
-            return numberToHandle%5 == 0;
+            return numberToHandle%FizzBuzzValue.Buzz == 0;
         }
     }
 }
